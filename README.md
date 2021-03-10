@@ -1,5 +1,4 @@
 # Aplikasi Pengelolaan Stok Bahan Baku Dan Keuangan
-# Catatan
 ## Instalasi:
 - Clone repositori ini
 - Pada folder `htdocs`, buat folder `kedai-app`
